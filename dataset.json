@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Regional restaurant data for the San Luis Obispo-Paso Robles (Metro), California metropolitan area, spanning San Luis Obispo and Paso Robles. Covers the full metropolitan dining ecosystem of a growing metropolitan dining market. Filtered by the Restaurants category group with ratings, review analytics, competitive positioning, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in San Luis Obispo-Paso Robles (Metro), California, US",
+  "export_job_id": "cbbaf2d3-1286-476f-a6d0-800fa5472d98",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 796095,
+  "location_name": "San Luis Obispo-Paso Robles, CA",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-san-luis-obispo-paso-robles-metro-california-us-sample-796095",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/796095/beamstation_796095_restaurants-us-sanluisobispopasoroblesca_SAMPLE_DIST.csv",
+  "sample_pct": 9.79,
+  "sample_records": 19,
+  "sample_sha256": "b98d4b6ad28f15c1f7bf6c3935dc1bf5094377cd5f9b1d3eb05151a5275f5fe2",
+  "sample_size_bytes": 82994,
+  "total_records": 194,
+  "updated_at": "2026-04-07T12:20:22.190958+00:00"
+}
