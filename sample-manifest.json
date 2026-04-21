@@ -1,12 +1,12 @@
 {
-  "export_job_id": "3e968d62-969d-45b9-8661-cda113aa6357",
+  "export_job_id": "c2947278-f3e7-4d58-bddb-96fd5d066b72",
   "id_short": 796095,
-  "published_at": "2026-04-17T07:49:22Z",
+  "published_at": "2026-04-21T19:49:20Z",
   "repo_name": "all-restaurants-in-san-luis-obispo-paso-robles-metro-california-us-sample-796095",
   "sample_asset_name": "beamstation_796095_restaurants-us-sanluisobispopasoroblesca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/796095/beamstation_796095_restaurants-us-sanluisobispopasoroblesca_SAMPLE_DIST.csv",
-  "sample_records": 19,
-  "sample_sha256": "af34b8ea85ea71804eccfbeeb0950718c41df5bf566d38301833d6312204265d",
-  "sample_size_bytes": 83936,
-  "total_records": 193
+  "sample_records": 15,
+  "sample_sha256": "ecff295b919ec3f3c12c5dd22d1f6d851b7a30da8ec167d1588153ef35770121",
+  "sample_size_bytes": 69673,
+  "total_records": 159
 }
