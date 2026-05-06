@@ -1,6 +1,6 @@
 # All Restaurants in San Luis Obispo-Paso Robles (Metro), California, US
 
-> Free BeamStation sample export with 11 rows and masked direct-contact fields.
+> Free BeamStation sample export with 20 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `796095` |
 | Location | San Luis Obispo-Paso Robles, CA |
 | Category | Restaurants |
-| Full dataset size | 111 records |
-| Free sample size | 11 records (9.91%) |
-| Last export | 2026-04-28T13:46:21.635308+00:00 |
+| Full dataset size | 203 records |
+| Free sample size | 20 records (9.85%) |
+| Last export | 2026-05-06T02:12:43.461171+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-san-luis-obispo-paso-robles-metro-california-us-sample-796095/releases/download/sample-latest/beamstation_796095_restaurants-us-sanluisobispopasoroblesca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
